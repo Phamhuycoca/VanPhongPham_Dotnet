@@ -1,0 +1,82 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/_layout_admin.cshtml";
+}
+@model IList<Model.Model.LoaiSanPham>
+
+<div class="animated fadeIn">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-header">
+                    <strong class="card-title">Danh sách loại sản phẩm</strong>
+                    <button type="button" class="btn btn-secondary mb-1" data-toggle="modal" data-target="#loaisanphamModal">
+                        Medium
+                    </button>
+                </div>                
+                <div class="table-stats order-table ov-h">
+                    <table class="table ">
+                        <thead>
+                            <tr>
+                                <th class="text-center">STT</th>
+                                <th class="text-center">Tên loại sản phẩm</th>
+                                <th class="text-center">Tùy chọn</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td class="text-center">1.</td>
+                                <td class="text-center">1.</td>
+                                <td class="text-center">
+                                    <button>Edit</button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div> <!-- /.table-stats -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="loaisanphamModal" tabindex="-1" role="dialog" aria-labelledby="loaisanphamModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="loaisanphamModalLabel">Loại sản phẩm</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="card">
+                    <div class="card-header">Example Form</div>
+                    <div class="card-body card-block">
+                        <form action="~/Admin/LoaiSanPham/Create" method="post">
+                            <div class="form-group">
+                                <div class="input-group">
+                                    <div class="input-group-addon">Tên loại sản phẩm</div>
+                                    <input type="text" id="tenloaisanpham" name="TenLoaiSanPham" class="form-control">
+                                </div>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Lưu</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+                <button type="button" class="btn btn-primary">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script>
+    function SaveData(){
+        var tenloaisanpham=document.getElementById('tenloaisanpham');
+        $.ajax({
+
+        })
+    }
+</script>

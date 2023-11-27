@@ -1,0 +1,17 @@
+F:\DuAnNho\VanPhongPham\Repository\bin\Debug\net6.0\Repository.deps.json
+F:\DuAnNho\VanPhongPham\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+F:\DuAnNho\VanPhongPham\Repository\bin\Debug\net6.0\Repository.dll
+F:\DuAnNho\VanPhongPham\Repository\bin\Debug\net6.0\Repository.pdb
+F:\DuAnNho\VanPhongPham\Repository\bin\Debug\net6.0\Model.dll
+F:\DuAnNho\VanPhongPham\Repository\bin\Debug\net6.0\Model.pdb
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.dll
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\refint\Repository.dll
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.pdb
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+F:\DuAnNho\VanPhongPham\Repository\obj\Debug\net6.0\ref\Repository.dll
