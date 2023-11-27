@@ -1,0 +1,525 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\VanPhongPham.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VanPhongPham.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\cs-skin-elastic.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\cs-skin-elastic.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\lib\\chosen\\chosen-sprite.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\chosen\\chosen-sprite.png"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\chosen\\chosen-sprite@2x.png"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\lib\\chosen\\chosen.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\chosen\\chosen.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\lib\\chosen\\chosen.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\chosen\\chosen.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\datatable\\buttons.bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\datatable\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\datatable\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\lib\\vector-map\\jqvmap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\lib\\vector-map\\jqvmap.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\fonts\\icomoon\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\icomoon\\index.html"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\init\\chartjs-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\chartjs-init.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\init\\datatables-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\datatables-init.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\init\\flot-chart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\flot-chart-init.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\init\\fullcalendar-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\fullcalendar-init.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\init\\gmap-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\gmap-init.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\init\\peitychart-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\peitychart-init.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\init\\vector-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\vector-init.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\init\\weather-init.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\init\\weather-init.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\chosen\\chosen.jquery.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chosen\\chosen.jquery.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\chosen\\chosen.jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chosen\\chosen.jquery.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\chosen\\chosen.proto.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chosen\\chosen.proto.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\chosen\\chosen.proto.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\chosen\\chosen.proto.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.flash.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.html5.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\buttons.print.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\datatables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\datatables.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jquery-1.12.4.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\jszip.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\jszip.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\pdfmake.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\data-table\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\data-table\\vfs_fonts.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmapApi.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmapApi.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmaps.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmaps.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\lib\\gmap\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\lib\\gmap\\gmaps.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\vmap.sampledata.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\js\\widgets.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\widgets.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\scss\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\scss\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\Admin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\.gitignore",
+      "PackagePath": "staticwebassets\\Admin\\images\\.gitignore"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\admin.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\admin.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\avatar\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\1.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\avatar\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\2.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\avatar\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\3.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\avatar\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\4.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\avatar\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\5.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\avatar\\6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\6.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\avatar\\64-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\64-1.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\avatar\\64-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\images\\avatar\\64-2.jpg"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\favicon.png"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.png"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\logo.psd",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo.psd"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\Admin\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\Admin\\images\\logo2.png"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\DuAnNho\\VanPhongPham\\VanPhongPham\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.VanPhongPham.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.VanPhongPham.props",
+      "PackagePath": "build\\VanPhongPham.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.VanPhongPham.props",
+      "PackagePath": "buildMultiTargeting\\VanPhongPham.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.VanPhongPham.props",
+      "PackagePath": "buildTransitive\\VanPhongPham.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
